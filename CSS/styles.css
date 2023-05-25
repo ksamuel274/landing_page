@@ -313,3 +313,14 @@ hr {
     padding-bottom: 5%;
     width: 15%; 
 }
+
+.proficiency-table{
+    text-align: center;
+    margin: 0 auto;
+    line-height: 1.5;
+    
+}
+
+.proficiency-table th{
+    padding: 10px 25px;
+}
