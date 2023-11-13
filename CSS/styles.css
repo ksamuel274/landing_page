@@ -77,6 +77,10 @@ h2 a{
 h3 {
     font-family: 'Montserat', sans-serif;
     color: #11999E;
+    
+}
+h3 a{
+    text-decoration: none;
 }
 
 a {
